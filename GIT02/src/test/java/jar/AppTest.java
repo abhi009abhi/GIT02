@@ -19,6 +19,12 @@ public class AppTest
     {
         super( testName );
     }
+    
+   
+    public void test1()
+    		{
+    			System.out.println("tieile present");
+    		}
 
     /**
      * @return the suite of tests being tested
